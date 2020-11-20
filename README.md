@@ -1,5 +1,5 @@
 # calculator
-<<<<<<< HEAD
+
 Calculator developed using VueJs
 =======
 
